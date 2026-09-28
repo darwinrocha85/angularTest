@@ -1,5 +1,15 @@
 # AngularCRUDApplication
 
+CRUD de empleados (Angular 13): listar, ver, crear y editar (`home`, `view-employee`,
+`add-employee`, `edit-employee`), con servicio y modelo propios.
+
+```bash
+npm install
+ng serve   # http://localhost:4200
+```
+
+> Nota: proyecto de práctica con Angular CLI 13.2.3 (2022).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
